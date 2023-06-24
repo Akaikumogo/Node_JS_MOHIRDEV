@@ -1,0 +1,19 @@
+{
+  "name": "node_js_mohirdev",
+  "version": "1.0.0",
+  "description": "Node js o'rganamiz",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "node",
+    "darslar"
+  ],
+  "author": "Akaikumogo",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
